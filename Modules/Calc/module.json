@@ -1,0 +1,13 @@
+{
+    "name": "Calc",
+    "alias": "calc",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Calc\\Providers\\CalcServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
